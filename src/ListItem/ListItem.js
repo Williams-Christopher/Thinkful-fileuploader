@@ -16,7 +16,7 @@ class ListItem extends Component {
       "jpg": faFileImage,
       "mov": faFileVideo,
       "txt": faFileAlt,
-      "mp3": faFileVideo
+      "mp3": faFileAudio
     }
 
     return (
